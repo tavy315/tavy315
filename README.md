@@ -3,6 +3,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=tavy315&show_icons=true" alt="yceruto" />
   </a>
+  [![Octav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Octav)]
 </p>
 
 <!--
