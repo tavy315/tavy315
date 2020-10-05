@@ -1,12 +1,11 @@
 <h2 align="center">Hi there 👋</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=tavy315&show_icons=true" alt="yceruto" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tavy315&show_icons=true" alt="Octav" />
   </a>
 </p>
 <p align="center">
-  
-  ![Octav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Octav)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Octav" alt="Octav" />
 </p>
 
 <!--
