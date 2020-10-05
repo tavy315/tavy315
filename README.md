@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h2 align="center">Hi there 👋</h2>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=tavy315&show_icons=true" alt="yceruto" />
+  </a>
+</p>
+
 <!--
 **tavy315/tavy315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
