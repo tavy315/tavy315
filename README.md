@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tavy315&show_icons=true" alt="Octav" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavy315&layout=compact" alt="Most used languages" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Octav" alt="Octav" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Octav" alt="Octav" /> -->
 </p>
 
 <!--
